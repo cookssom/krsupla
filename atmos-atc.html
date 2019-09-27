@@ -1,0 +1,54 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+
+$(document).ready(function() {
+        function getUrlVars()
+        {
+            var vars = [], hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for(var i = 0; i < hashes.length; i++)
+            {
+                hash = hashes[i].split('=');
+                vars.push(hash[0]);
+                vars[hash[0]] = hash[1];
+            }
+            return vars;
+        }
+
+        vars = getUrlVars()
+
+        if (vars.region) {
+            region = vars.region
+        } else {
+            region = "GB"
+        }
+
+        if (vars) {
+                $("input[name=brandcode]").val(vars.code);
+                $("input[name=branduid]").val(vars.id);
+				$("input[id=size]").val(vars.size);
+				$("input[id=index]").val(vars.index);
+                //$('#form').attr('action', 'https://www.lacoste.com/kr/');
+                //$('#form').submit();
+        }
+})
+</script>
+</head>
+<body>
+
+<center><h1>Lacoste KR Carting...for CookSSOM</h1></center>
+
+<form name="form" id="form" action="https://www.lacoste.com/on/demandware.store/Sites-KR-Site/ko_KR/Cart-AddProduct" method="post">
+		<input name="pid" value="SH1861-19C031004">
+		<input name="minicart" value="true">
+		<input name="format" value="ajax">
+
+		
+ <input type="submit" value="Add To Cart">
+</form>
+
+
+</body>
+</html>
