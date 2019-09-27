@@ -26,10 +26,10 @@ $(document).ready(function() {
         }
 
         if (vars) {
-                $("input[name=brandcode]").val(vars.code);
-                $("input[name=branduid]").val(vars.id);
-				$("input[id=size]").val(vars.size);
-				$("input[id=index]").val(vars.index);
+                $("input[name=pid]").val(vars.pid);
+                //$("input[name=branduid]").val(vars.id);
+		//		$("input[id=size]").val(vars.size);
+		//		$("input[id=index]").val(vars.index);
                 //$('#form').attr('action', 'https://www.lacoste.com/kr/');
                 //$('#form').submit();
         }
@@ -41,7 +41,7 @@ $(document).ready(function() {
 <center><h1>Lacoste KR Carting...for CookSSOM</h1></center>
 
 <form name="form" id="form" action="https://www.lacoste.com/on/demandware.store/Sites-KR-Site/ko_KR/Cart-AddProduct" method="post">
-		<input name="pid" value="SH1861-19C031004">
+		<input name="pid" value="">
 		<input name="minicart" value="true">
 		<input name="format" value="ajax">
 
