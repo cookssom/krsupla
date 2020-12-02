@@ -27,7 +27,9 @@
   "abcmode" : "on",
   "abcproductID" : "1010080786",
   "abcproductPRC" : "129,000",
+  "abcproductPRICE" : "129000",
   "abctargetNAME" : "이지 부스트 350 V2",
   "abctargetID" : "1020081425",
-  "abctargetPRC" : "289,000"
+  "abctargetPRC" : "289,000",
+  "abctargetPRICE" : "289000"
 }
