@@ -23,5 +23,10 @@
   "pointprc3" : "24,900",
   "point1" : "24900",
   "point2" : "24900",
-  "point3" : "24900"
+  "point3" : "24900",
+  "abcmode" : "on"
+  "abcproductID" : "",
+  "abcproductPRC" : "",
+  "abctargetID" : "",
+  "abctargetPRC" : ""
 }
