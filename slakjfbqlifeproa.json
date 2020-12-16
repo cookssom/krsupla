@@ -5,5 +5,11 @@
  "monitor" : "on",
  "api1" : "on",
  "api2" : "on",
- "api3" : "on"
+ "api3" : "on",
+ "ksize" : "on",
+ "psize" : "on",
+ "asize" : "on",
+ "nsize" : "on",
+ "hsize" : "on",
+ "ssize" : "on"
 }
