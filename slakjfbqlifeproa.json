@@ -11,5 +11,6 @@
  "asize" : "on",
  "nsize" : "on",
  "hsize" : "on",
- "ssize" : "on"
+ "ssize" : "on",
+ "pinapi" : "on"
 }
