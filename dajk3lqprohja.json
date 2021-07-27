@@ -6,5 +6,6 @@
  "api1" : "on",
  "api2" : "on",
  "api3" : "on",
- "pinapi" : "on"
+ "pinapi" : "on",
+ "npinapi" : "on"
 }
