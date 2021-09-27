@@ -13,5 +13,6 @@
  "hsize" : "on",
  "ssize" : "on",
  "pinapi" : "on",
- "npinapi" : "on"
+ "npinapi" : "on",
+ "worapi" : "on"
 }
