@@ -8,5 +8,7 @@
  "api3" : "on",
  "pinapi" : "on",
  "npinapi" : "on",
- "worapi" : "on"
+ "worapi" : "on",
+ "alertapi" : "on",
+ "loadapi" : "on"
 }
