@@ -16,5 +16,6 @@
  "npinapi" : "on",
  "worapi" : "on",
  "alertapi" : "on",
- "loadapi" : "on"
+ "loadapi" : "on",
+ "spinapi" : "on"
 }
