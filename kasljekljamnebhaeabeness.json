@@ -13,5 +13,8 @@
  "alertapi" : "on",
  "loadapi" : "on",
  "paymode" : "on",
- "live" : "jljkha#@j^klj--aOJq"
+ "live" : "jljkha#@j^klj--aOJq",
+ "autok" : "on",
+ "autoc" : "on",
+ "profiles" : "on"
 }
