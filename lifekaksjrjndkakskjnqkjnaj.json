@@ -13,12 +13,12 @@
  "worapi" : "on",
  "alertapi" : "on",
  "loadapi" : "on",
- "paymode" : "on",
+ "paymode" : "off",
  "live" : "gJAZy&JFzCCv9C7B^!iw",
- "autof" : "on",
- "autoc" : "on",
- "profiles" : "on",
- "nikec" : "on",
- "nikead" : "on",
- "nauthplus" : "on"
+ "autof" : "off",
+ "autoc" : "off",
+ "profiles" : "off",
+ "nikec" : "off",
+ "nikead" : "off",
+ "nauthplus" : "off"
 }
