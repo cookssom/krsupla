@@ -12,10 +12,10 @@
  "nsize" : "on",
  "hsize" : "on",
  "ssize" : "on",
- "pinapi" : "on",
- "npinapi" : "on",
- "worapi" : "on",
- "alertapi" : "on",
+ "pinapi" : "off",
+ "npinapi" : "off",
+ "worapi" : "off",
+ "alertapi" : "off",
  "loadapi" : "on",
  "spinapi" : "on"
 }
