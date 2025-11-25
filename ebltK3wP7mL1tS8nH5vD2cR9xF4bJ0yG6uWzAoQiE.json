@@ -3,6 +3,7 @@
  "adipass" : "on",
  "automode" : "on",
  "autofill" : "on",
+ "xpath" : "on",
  "monitor" : "on",
  "api1" : "on",
  "api2" : "on",
