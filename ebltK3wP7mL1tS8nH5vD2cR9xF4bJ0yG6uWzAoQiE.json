@@ -11,7 +11,7 @@
  "pinapi" : "on",
  "tpinapi" : "on",
  "npinapi" : "on",
- "kbpinapi" : "on,
+ "kbpinapi" : "on",
  "worapi" : "on",
  "alertapi" : "on",
  "loadapi" : "on",
